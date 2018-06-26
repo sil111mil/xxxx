@@ -13,4 +13,5 @@ class Animal {
     String nombre;
     String nombreDueño;
     int edad;
+    String nombreVeterinario;
 }
