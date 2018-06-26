@@ -3,12 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication3;
+package javaayayay;
 
 /**
  *
  * @author sil
  */
 class Persona {
+    String nombre;
+    String apellido;
+    String direccion;
+    
     
 }

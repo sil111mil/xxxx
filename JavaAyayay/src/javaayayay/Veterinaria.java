@@ -9,8 +9,6 @@ package javaayayay;
  *
  * @author sil
  */
-class Animal {
-    String nombre;
-    String nombreDueño;
-    int edad;
+public class Veterinaria {
+   //Clase agregada en la versión siguiente a la original 
 }
